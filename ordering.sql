@@ -1,5 +1,5 @@
 
--- Order by LastName descending
+-- Order by LastName ascending
 SELECT FirstName, LastName, Country 
 FROM Customers 
 WHERE Country = 'USA'
